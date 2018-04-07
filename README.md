@@ -1,4 +1,4 @@
 # prueba_python
 Andrea Caldera
-ICO 2 semestre
+ICO  semestre 2
 clase python programa
